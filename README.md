@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 class SDE
   def initialize
     @name = 'Sangam Kumar'
-    @role = 'Software Development Engineer 2'
+    @role = 'Senior Software Engineer'
     @linkedin = 'https://www.linkedin.com/in/sangamcse'
     @twitter = 'https://twitter.com/meetsangamcse'
     @email = 'sangamcse.dev@gmail.com'
