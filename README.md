@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sangamcse.visitor-badge)
+![visitors](http://visitor-badge.laobi.icu/badge?page_id=sangamcse.visitor-badge)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ```ruby
